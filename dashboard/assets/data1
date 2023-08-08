@@ -1,0 +1,30 @@
+<data>
+<point>
+<label>Africa</label>
+<y>30370000</y>
+</point>
+<point>
+<label>Antarctica</label>
+<y>13720000</y>
+</point>
+<point>
+<label>Asia</label>
+<y>43820000</y>
+</point>
+<point>
+<label>Europe</label>
+<y>10180000</y>
+</point>
+<point>
+<label>North America</label>
+<y>24490000</y>
+</point>
+<point>
+<label>Australia</label>
+<y>9008500</y>
+</point>
+<point>
+<label>South America</label>
+<y>17840000</y>
+</point>
+</data>
